@@ -1,3 +1,10 @@
+"""
+Author: Luke Stilson
+Date:    2025-03-15
+Description:
+    <Blender CLI accessible python to multithread lossy and lossless png compression>
+"""
+
 import subprocess
 import sys
 import site
